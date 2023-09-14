@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on creating react projects for my portfolio
+- 🌱 I’m trying to advance my react skills
+- 📫 How to reach me: tamzidr26@gmail.com
+- 😄 Pronouns: he/him
+
+
+
 
 <!--
 **tamzidr/tamzidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
