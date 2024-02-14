@@ -1,11 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on creating react projects for my portfolio
-- 🌱 I’m trying to advance my react skills
-- 📫 How to reach me: tamzidr26@gmail.com
-- 😄 Pronouns: he/him
-
-
-
+Hello. I'm currently creating my debut react app over at "taskslash.com". 
+I'm trying to experiment with coding and see what I like. Web development has been entertaining so far, but I'd like to check other things out.
+You can reach me at "tamzidr26@gmail.com". 
 
 <!--
 **tamzidr/tamzidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
