@@ -1,6 +1,6 @@
 Hello. I'm currently creating my debut react app over at "taskslash.com". 
 I'm trying to experiment with coding and see what I like. Web development has been entertaining so far, but I'd like to check other things out.
-You can reach me at "tamzidr26@gmail.com". 
+You can reach me at "tamzidr26@gmail.com". If you are interested in me professionaly I have a portfolio/blog over at "tamzidr.com".
 
 <!--
 **tamzidr/tamzidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
